@@ -1,2 +1,0 @@
-# SengShop
-Seng shop repository 
