@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_const_constructors_in_immutables, prefer_const_constructors, sort_child_properties_last
+
 part of home_view;
 
 class _HomeMobile extends StatelessWidget {
